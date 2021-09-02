@@ -689,7 +689,9 @@ p {
     font-size: 20px;
     font-family: "Open Sans";
 }
-
+.row h1{
+    font-size: 30px;
+}
 .cta-hero {
     margin-top: 22px;
     color: #FFFFFF!important;
