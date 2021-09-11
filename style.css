@@ -1057,3 +1057,6 @@ h4 {
 .auteur{
     font-size: 15px;
 }
+.partenaire a{
+    list-style: none;
+}
